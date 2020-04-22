@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  AccessCodeSuccessScreen
+
+  Created by Mojal, Michelle Kim dela Pena on 22/04/2020.
+  Copyright © 2020 DCPDC. All rights reserved.
+*/
+
+// 1.2.3.3 Update Temporary Access Code
+"m_1_2_3_2_e5_heading" = "Success!";
+"m_1_2_3_2_e5_help_text" = "Your access code has been updated.";
+"m_1_2_3_2_e5_ok_button" = "OK";
